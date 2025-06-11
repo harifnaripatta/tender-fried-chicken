@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Margarine&family=Roboto:ital,wght@0,100..900;1,100..900&family=Satisfy&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  /* Font Family */
+  --ff-primary: "Roboto", sans-serif;
+  --ff-secondary: "Inter", sans-serif;
+  --ff-design: "Satisfy", cursive;
+  --ff-band: "Margarine", sans-serif;
+}
